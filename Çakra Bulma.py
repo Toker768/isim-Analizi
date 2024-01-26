@@ -45,3 +45,6 @@ if eksik_cakralar:
         print(f"{eksik}. çakradan eksik harf bulunmamaktadır.")
 else:
     print("Girilen isimde tüm çakralar bulunmaktadır.")
+
+
+    # merhaba kardeş

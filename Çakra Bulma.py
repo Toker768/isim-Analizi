@@ -47,4 +47,3 @@ else:
     print("Girilen isimde tüm çakralar bulunmaktadır.")
 
 
-    # merhaba kardeş
